@@ -1,0 +1,78 @@
+
+.navbar{
+  background-color: #1D3557;
+}
+body, html {
+    height: 100%;
+  }
+
+.jumbotron {
+    min-height: 100%;
+  }
+#car{
+  min-height: 100%
+}
+#red{
+  color: #E63946;
+}
+#about{
+    background-color: #a8dadc;
+}
+#home {
+      background-color: #a8dadc;
+}
+#portfolio{
+    background-color: #a8dadc;
+    text-align: center;
+}
+#contact{
+    background-color: #a8dadc;
+    
+}
+
+.display-4{
+  text-align: center;
+}
+.scroll{
+    overflow-y: auto;
+		height: 100px;
+		margin-bottom: 0px;
+        border: none;
+        text-align: justify;
+        font-size: 10px;
+}
+[class^="icon"] {
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top: 15px;
+    margin-right: 10px;
+    fill: #F0EFEB;
+  }
+  
+/* Reposition the music note icon */
+.icon-music {
+  right: 5px;
+}
+.bg{
+ color: #E63946;
+}
+p{
+  color: #1D3557;
+}
+
+.logo{
+  width: 100px;
+  height: 100px;
+}
+
+.text {
+  color: #1D3557;
+  text-shadow: 2px 2px #F1FAEE;
+  font-size: 65px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 200px;
+  width: 100%;
+  text-align: center;
+}
